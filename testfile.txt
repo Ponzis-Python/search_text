@@ -1,0 +1,7 @@
+Bootstrap (Twitter)
+Guava: Google Core Libraries for Java
+Commons IO
+JUnit	4396314	500
+FindBugs jsr305
+Commander.js
+
